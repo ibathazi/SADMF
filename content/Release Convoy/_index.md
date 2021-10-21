@@ -65,3 +65,8 @@ It's normal for a little wear and tear to occur when we are moving so quickly. D
 #### Rota Fortunae
 
 We know that a static organizational structure limits improvement and also becomes boring for some executives. While many outside the SADMF community may propose Value Stream Mapping to identify constraints, we know that the process is time consuming and uses too many Post-Its. To resolve these we introduced the Rota Fortunae ceremony where we "spin the wheel", restructure, and then see if we are delivering better. If we fail, then we convene a [Tribunal](#tribunal) to address it.
+
+#### Branching Strategy
+
+CFF branching strategy. To ensure high quality, new branch creation is recommended for every task in the story. To be able to meet high quality standards it is also recommended to have planned half week merging team exercises in every sprint. If multiple teams are working together on same products and half week is not enough, teams are allowed to expand this excercise to a week or even longer if needed. 
+Note: bonus points can be earned if stories have to split to next sprint to double the fun.
